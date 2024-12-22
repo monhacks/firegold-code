@@ -1921,5 +1921,6 @@ DoLoadSpritePalette = 0x080089a0 | 1;
 MarkFogSpritePalToLighten = 0x0807a714 | 1;
 WeatherShiftGammaIfPalStateIdle = 0x0807a790 | 1;
 
+GiveMonToPlayer = 0x08040b14 | 1;
 gBugContestMon = 0x0203FEC0;
 gBCCSwapScreen = 0x0203FEC4;
